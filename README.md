@@ -11,4 +11,4 @@ https://github.com/Powerlevel9k/powerlevel9k/wiki/Install-Instructions#step-1-in
 https://github.com/powerline/fonts
 
 ## Install zsh-autosuggestions
-
+https://github.com/zsh-users/zsh-autosuggestions
