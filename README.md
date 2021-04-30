@@ -13,20 +13,11 @@ https://github.com/powerline/fonts
 ## Install zsh-autosuggestions
 https://github.com/zsh-users/zsh-autosuggestions
 
-## In Iterm2 
-Preferences => Profils 
-                      => Colors => Color Presets => Solarized Dark
-                      => Text => Check "Use built-in Powerline glyphs"
-                                 Font => Inconsolata for Powerline
-                                         BoldForPowerline
-                                         14
-                                         100
-                                         126
-                                         
-| Preferences| Profils | | | |
+## In Iterm2                                          
+| Preferences =>| Profils =>| | | |
 | ---| ---| ---| ---| ---|
-| | | Colors| Color Presets| `Solarized Dark`|
-| | | Text  | Font| `Inconsolata for Powerline`|
+| | | Colors =>| Color Presets =>| `Solarized Dark`|
+| | | Text =>| Font =>| `Inconsolata for Powerline`|
 | | | | | `BoldForPowerline`|
 | | | | | `14`|
 | | | | | `100`|
