@@ -19,8 +19,8 @@ POWERLEVEL9K_PROMPT_ADD_NEWLINE=true
 POWERLEVEL9K_SHORTEN_DIR_LENGTH=3
 POWERLEVEL9K_SHORTEN_STRATEGY=truncate_folders
 
-# font used : incolata for Powerline | bold | 14 | 100 | 126
-# color preset  : material-design-colors
+# font used : inconsolata for Powerline | bold | 14 | 100 | 126
+# color preset  : Solarized Dark
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
