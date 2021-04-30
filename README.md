@@ -22,3 +22,12 @@ Preferences => Profils
                                          14
                                          100
                                          126
+                                         
+| Preferences   | Profils       |       |              |                 |
+| ------------- |:-------------:| -----:|              |                 |
+|               |               | Colors| Color Presets| `Solarized Dark`|
+|               |               | Text  | Font         | `Inconsolata for Powerline`|
+|               |               |       |              | `BoldForPowerline`|
+|               |               |       |              | `14`|
+|               |               |       |              | `100`|
+|               |               |       |              | `126`|
