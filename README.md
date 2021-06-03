@@ -1,6 +1,9 @@
 # zsh_config
 Repo to store zshrc file templates
 
+## Oh-my-zsh documentation
+https://github.com/ohmyzsh/ohmyzsh/wiki
+
 ## Tutorial 
 https://www.freecodecamp.org/news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro-c0ab3f3c1156/
 
